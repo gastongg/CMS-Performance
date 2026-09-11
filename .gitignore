@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+
+# CMake / builds
+Build/
+out/
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+
+# JUCE generated/build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS
+Thumbs.db
+.DS_Store
